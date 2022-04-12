@@ -17,7 +17,9 @@ class SpaceAge {
             Neptune: orbital period 164.79132 Earth years
 
         So if you were told someone were 1,000,000,000 seconds old, you should be able to say that they're 31.69 Earth-years old.
-    */
+
+        This program is to display the age of a person given in seconds in Earth years
+        */
     private final long earthYear = 31557600L;
     private final double mercuryYear = earthYear * 0.2408467;
     private final double venusYear = earthYear * 0.61519726;
